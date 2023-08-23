@@ -1,5 +1,4 @@
 # Batsman-Cricket-Analysis
-An analysis performed on a batsman’s career aided by visualizations and comparisons
 
 Problem Statement: Deep dive into why Virat Kohli is the best cricket player and what are his weaknesses.
 
